@@ -1,0 +1,14 @@
+Sugar bush 2.0
+
+Termianl
+    - npx create-react-app sugar-bush2.0
+
+VS cmd imports
+    - react : baked in!
+    - react-router-dom : npm i react-router-dom
+    - aos : npm install aos --save
+    - react-icons : npm install react-icons --save
+    - @emailjs/browser : npm install @emailjs/browser
+    - useRef : npm install node-useref
+
+    npm audit fix --force
