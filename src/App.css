@@ -195,6 +195,7 @@ button {
   align-items: center;
   justify-content: center;
   width: 100%;
+  padding-bottom: 125px;
 }
 .banner__background--wrapper{
  display: flex;
@@ -212,6 +213,10 @@ button {
   width: 100%;
 }
 /* About Us */
+
+#about-us ,#hookah{
+  padding-top: 2%;
+}
 p:first-child:first-letter {
   float: left;
   font: 260px 'Allura';
